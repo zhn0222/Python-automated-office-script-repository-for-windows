@@ -24,6 +24,8 @@ ps:本项目不定时更新,没回复更新就是在打灰.
 
 再次强调本人非科班出生,几乎不太懂代码,就相当于一个脚本集合库而已,目的是为了给大家带来方便.(好像章鱼猫上也没有相应项目就建一个呗)
 
+有任何问题也欢迎大家提交issue.
+
 真实原因:如果您喜欢,给个star,望求得人间碎银几两.
 
 (https://github.com/zhn0222/Python-automated-office-script-repository-for-windows/blob/main/Alibaba.jpg?raw=true)
