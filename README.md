@@ -4,7 +4,7 @@
 
 根本原因:喜欢有创造性的事,解放双手,重复而又无意义的工作就交给程序吧!
 
-真实原因:看最后.
+真实原因:喜爱公益项目.
 
 使用方式:
 
@@ -26,9 +26,3 @@ ps:本项目不定时更新,没回复更新就是在打灰.
 再次强调本人非科班出生,可以当做一个脚本集合库而已,目的是为了给大家带来方便.
 
 有任何问题也欢迎大家提交issue交流讨论.
-
-真实原因:如果您喜欢本项目或对您有帮助,给个star,或求得人间碎银几两.
-
-(https://github.com/zhn0222/Python-automated-office-script-repository-for-windows/blob/main/Alibaba.jpg?raw=true)
-
-(https://github.com/zhn0222/Python-automated-office-script-repository-for-windows/blob/main/WeChat.jpg?raw=true)
